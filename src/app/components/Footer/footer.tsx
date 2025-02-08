@@ -1,6 +1,7 @@
 import React from 'react';
 
 const footer = () => {
+  console.log('foo');
   return (
     <>
       <footer className='footer bg-base-200 text-base-content p-10'>
