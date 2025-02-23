@@ -26,7 +26,9 @@ const Banner = () => {
           width={540}
           height={463}
           alt='hero-image'
-          objectFit='cover'
+          style={{
+            objectFit: 'cover'
+          }}
           className=''
         />
       </section>
